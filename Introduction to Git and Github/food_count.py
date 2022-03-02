@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Start of the code
 # Dictionary to keep track of food likes
 counter = {}
 
