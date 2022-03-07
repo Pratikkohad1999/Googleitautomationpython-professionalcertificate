@@ -2,6 +2,7 @@
 
 # Dictionary to keep track of food likes
 counter = {}
+# start of the code
 
 # Open up the favorite foods log and count frequencies using the dictionary
 with open("favorite_foods.log", "r") as f:
